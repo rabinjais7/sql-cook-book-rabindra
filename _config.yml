@@ -2,7 +2,7 @@ title: "Rabindra Jaiswal — Data Architect"
 email: YOUR_EMAIL@example.com
 description: "Data architecture, engineering, and technical writing."
 url: "https://rabinjais7.github.io"
-baseurl: "/sql-cook-book-rabindra"
+baseurl: ""
 markdown: kramdown
 permalink: /blog/:title/
 plugins:
