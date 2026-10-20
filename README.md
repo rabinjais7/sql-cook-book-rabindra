@@ -1,1 +1,0 @@
-# sql-cook-book-rabindra
