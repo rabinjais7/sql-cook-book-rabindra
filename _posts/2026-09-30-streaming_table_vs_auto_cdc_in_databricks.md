@@ -1,10 +1,8 @@
 ---
-
-title: "streaming_table_vs_auto_cdc_in_databricks"
+title: streaming_table_vs_auto_cdc_in_databricks
 date: 2026-09-30
 author: Rabindra Jaiswal
-categories: [Architecture, Markdown]
-
+categories: [Architecture, databricks]
 ---
 
 # Databricks AUTO CDC — End-to-End Implementation and Architecture
