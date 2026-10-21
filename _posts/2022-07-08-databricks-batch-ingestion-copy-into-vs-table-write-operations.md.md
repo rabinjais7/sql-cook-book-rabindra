@@ -1,6 +1,6 @@
 ---
-title: Where Should Data Quality Checks Happen in Medallion Architecture
-date: 2022-07--8
+title: Databricks Batch Ingestion: COPY INTO vs Table Write Operations
+date: 2022-07-08
 author: Rabindra Jaiswal
 categories: [Architecture, databricks]
 ---
