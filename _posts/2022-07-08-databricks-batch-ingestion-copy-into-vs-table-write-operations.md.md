@@ -1,5 +1,5 @@
 ---
-title: Databricks Batch Ingestion: COPY INTO vs Table Write Operations
+title: Databricks Batch Ingestion COPY INTO vs Table Write Operations
 date: 2022-07-08
 author: Rabindra Jaiswal
 categories: [Architecture, databricks]
