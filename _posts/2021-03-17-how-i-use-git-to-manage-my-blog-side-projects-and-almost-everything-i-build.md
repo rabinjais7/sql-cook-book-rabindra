@@ -1,5 +1,5 @@
 ---
-title: Where Should Data Quality Checks Happen in Medallion Architecture
+title: How I Use Git to Manage My Blog, Side Projects, and Almost Everything I Build
 date: 2021-03-17
 author: Rabindra Jaiswal
 categories: [git, utility]
