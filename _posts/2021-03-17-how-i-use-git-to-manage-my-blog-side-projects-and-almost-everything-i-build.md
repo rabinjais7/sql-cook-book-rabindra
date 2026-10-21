@@ -1,6 +1,6 @@
 ---
 title: Where Should Data Quality Checks Happen in Medallion Architecture
-date: 2021-03-117
+date: 2021-03-17
 author: Rabindra Jaiswal
 categories: [git, utility]
 ---
