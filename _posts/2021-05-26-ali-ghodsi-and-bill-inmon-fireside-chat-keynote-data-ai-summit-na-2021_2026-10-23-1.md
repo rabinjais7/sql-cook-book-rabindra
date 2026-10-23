@@ -1,5 +1,5 @@
 ---
-title: The Evolving Data Landscape: From Warehouses to the Unified Lakehouse
+title: The Evolving Data Landscape From Warehouses to the Unified Lakehouse
 date: 2021-05-26
 author: Rabindra Jaiswal
 categories:
