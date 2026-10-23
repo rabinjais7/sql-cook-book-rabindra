@@ -4,6 +4,7 @@ description: "Data architecture, engineering, and technical writing."
 url: "https://rabinjais7.github.io"
 baseurl: ""
 markdown: kramdown
+highlighter: rouge
 permalink: /blog/:title/
 plugins:
   - jekyll-feed
